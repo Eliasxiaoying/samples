@@ -1,0 +1,782 @@
+2022-09-14 20:23:05.3558 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-14 20:23:05.3652 Info Loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-14 20:23:05.3857 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.0.2.652. Product version: 1.0.2.
+2022-09-14 20:23:05.3857 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2022-09-14 20:23:05.3911 Info Message Template Auto Format enabled
+2022-09-14 20:23:05.4897 Info Adding target File Target[target1]
+2022-09-14 20:23:05.5036 Info Adding target Console Target[target2]
+2022-09-14 20:23:05.5036 Info Configured from an XML element in E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config...
+2022-09-14 20:23:05.5323 Info Found 35 configuration items
+2022-09-14 20:23:05.5938 Info Configuration initialized.
+2022-09-14 20:23:05.5938 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2022-09-14 20:23:05.8604 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.0.log
+2022-09-14 20:23:05.9536 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.1.log
+2022-09-14 20:23:06.0005 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.2.log
+2022-09-14 20:23:06.0306 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.3.log
+2022-09-14 20:23:06.0782 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.4.log
+2022-09-14 20:23:06.1093 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.5.log
+2022-09-14 20:23:06.1412 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.6.log
+2022-09-14 20:23:06.2045 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.7.log
+2022-09-14 20:23:06.2499 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.8.log
+2022-09-14 20:23:06.2809 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.9.log
+2022-09-14 20:23:06.3132 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.10.log
+2022-09-14 20:23:06.3444 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.11.log
+2022-09-14 20:23:06.3750 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.12.log
+2022-09-14 20:23:06.4054 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.13.log
+2022-09-14 20:23:06.4221 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.14.log
+2022-09-14 20:23:06.4690 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.15.log
+2022-09-14 20:23:06.5014 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.16.log
+2022-09-14 20:23:06.5485 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.17.log
+2022-09-14 20:23:06.5784 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.18.log
+2022-09-14 20:23:06.6110 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.19.log
+2022-09-14 20:23:06.6577 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.20.log
+2022-09-14 20:23:06.7037 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.21.log
+2022-09-14 20:23:06.7353 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.22.log
+2022-09-14 20:23:06.7804 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.23.log
+2022-09-14 20:23:06.8165 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.24.log
+2022-09-14 20:23:06.8602 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.25.log
+2022-09-14 20:23:06.8902 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.26.log
+2022-09-14 20:23:06.9063 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.27.log
+2022-09-14 20:23:06.9386 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.28.log
+2022-09-14 20:23:06.9839 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.29.log
+2022-09-14 20:23:07.0314 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.30.log
+2022-09-14 20:23:07.0479 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.31.log
+2022-09-14 20:23:07.0933 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.32.log
+2022-09-14 20:23:07.1247 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.33.log
+2022-09-14 20:23:07.1558 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.34.log
+2022-09-14 20:23:07.2026 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.35.log
+2022-09-14 20:23:07.2333 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.36.log
+2022-09-14 20:23:07.2663 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.37.log
+2022-09-14 20:23:07.2973 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.38.log
+2022-09-14 20:23:07.3271 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.39.log
+2022-09-14 20:23:07.3594 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.40.log
+2022-09-14 20:23:07.3904 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.41.log
+2022-09-14 20:23:07.4213 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.42.log
+2022-09-14 20:23:07.4365 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.43.log
+2022-09-14 20:23:07.4856 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.44.log
+2022-09-14 20:23:07.5158 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.45.log
+2022-09-14 20:23:07.5631 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.46.log
+2022-09-14 20:23:07.5934 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.47.log
+2022-09-14 20:23:07.6261 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.48.log
+2022-09-14 20:23:07.6721 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.49.log
+2022-09-14 20:23:07.7045 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.50.log
+2022-09-14 20:23:07.7504 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.51.log
+2022-09-14 20:23:07.7973 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.52.log
+2022-09-14 20:23:07.8287 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.53.log
+2022-09-14 20:23:07.8595 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.54.log
+2022-09-14 20:23:07.8904 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.55.log
+2022-09-14 20:23:07.9215 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.56.log
+2022-09-14 20:23:07.9960 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.57.log
+2022-09-14 20:23:08.0157 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.58.log
+2022-09-14 20:23:08.0476 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.59.log
+2022-09-14 20:23:08.0940 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.60.log
+2022-09-14 20:23:08.1255 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.61.log
+2022-09-14 20:23:08.1569 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.62.log
+2022-09-14 20:23:08.1886 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.63.log
+2022-09-14 20:23:08.2348 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.64.log
+2022-09-14 20:23:08.2660 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.65.log
+2022-09-14 20:23:08.2972 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.66.log
+2022-09-14 20:23:08.3275 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.67.log
+2022-09-14 20:23:08.3605 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.68.log
+2022-09-14 20:23:08.3749 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.69.log
+2022-09-14 20:23:08.4209 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.70.log
+2022-09-14 20:23:08.4380 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.71.log
+2022-09-14 20:23:08.4694 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.72.log
+2022-09-14 20:23:08.4999 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.73.log
+2022-09-14 20:23:08.5318 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.74.log
+2022-09-14 20:23:08.5617 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.75.log
+2022-09-14 20:23:08.5937 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.76.log
+2022-09-14 20:23:08.6243 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.77.log
+2022-09-14 20:23:08.6399 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.78.log
+2022-09-14 20:23:08.6716 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.79.log
+2022-09-14 20:23:08.7037 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.80.log
+2022-09-14 20:23:08.7503 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.81.log
+2022-09-14 20:23:08.7651 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.82.log
+2022-09-14 20:23:08.7962 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.83.log
+2022-09-14 20:23:08.8271 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.84.log
+2022-09-14 20:23:08.8440 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.85.log
+2022-09-14 20:23:08.8749 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.86.log
+2022-09-14 20:23:08.9058 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.87.log
+2022-09-14 20:23:08.9369 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.88.log
+2022-09-14 20:23:08.9687 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.89.log
+2022-09-14 20:23:08.9997 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.90.log
+2022-09-14 20:23:09.0147 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.91.log
+2022-09-14 20:23:09.0463 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.92.log
+2022-09-14 20:23:09.0780 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.93.log
+2022-09-14 20:23:09.0930 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.94.log
+2022-09-14 20:23:09.1085 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.95.log
+2022-09-14 20:23:09.1408 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.96.log
+2022-09-14 20:23:09.1560 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.97.log
+2022-09-14 20:23:09.1708 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.98.log
+2022-09-14 20:23:09.2028 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.99.log
+2022-09-14 20:23:09.2179 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.100.log
+2022-09-14 20:23:09.2497 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.101.log
+2022-09-14 20:23:09.2659 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.102.log
+2022-09-14 20:23:09.2811 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.103.log
+2022-09-14 20:23:09.3116 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.104.log
+2022-09-14 20:23:09.3278 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.105.log
+2022-09-14 20:23:09.3590 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.106.log
+2022-09-14 20:23:09.3744 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.107.log
+2022-09-14 20:23:09.4058 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.108.log
+2022-09-14 20:23:09.4223 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.109.log
+2022-09-14 20:23:09.4529 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.110.log
+2022-09-14 20:23:09.4691 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.111.log
+2022-09-14 20:23:09.4993 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.112.log
+2022-09-14 20:23:09.5309 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.113.log
+2022-09-14 20:23:09.5464 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.114.log
+2022-09-14 20:23:09.5784 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.115.log
+2022-09-14 20:23:09.5941 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.116.log
+2022-09-14 20:23:09.6252 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.117.log
+2022-09-14 20:23:09.6408 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.118.log
+2022-09-14 20:23:09.6713 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.119.log
+2022-09-14 20:23:09.6874 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.120.log
+2022-09-14 20:23:09.7182 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.121.log
+2022-09-14 20:23:09.7347 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.122.log
+2022-09-14 20:23:09.7651 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.123.log
+2022-09-14 20:23:09.7808 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.124.log
+2022-09-14 20:23:09.8134 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.125.log
+2022-09-14 20:23:09.8274 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.126.log
+2022-09-14 20:23:09.8593 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.127.log
+2022-09-14 20:23:09.8743 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.128.log
+2022-09-14 20:23:09.9053 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.129.log
+2022-09-14 20:23:09.9211 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.130.log
+2022-09-14 20:23:09.9524 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.131.log
+2022-09-14 20:23:09.9682 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.132.log
+2022-09-14 20:23:10.0004 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.133.log
+2022-09-14 20:23:10.0154 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.134.log
+2022-09-14 20:23:10.0315 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.135.log
+2022-09-14 20:23:10.0626 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.136.log
+2022-09-14 20:23:10.0780 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.137.log
+2022-09-14 20:23:10.1091 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.138.log
+2022-09-14 20:23:10.1250 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.139.log
+2022-09-14 20:23:10.1553 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.140.log
+2022-09-14 20:23:10.1718 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.141.log
+2022-09-14 20:23:10.2025 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.142.log
+2022-09-14 20:23:10.2193 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.143.log
+2022-09-14 20:23:10.2335 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.144.log
+2022-09-14 20:23:10.2666 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.145.log
+2022-09-14 20:23:10.2810 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.146.log
+2022-09-14 20:23:10.3128 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.147.log
+2022-09-14 20:23:10.3442 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.148.log
+2022-09-14 20:23:10.3595 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.149.log
+2022-09-14 20:23:10.3902 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.150.log
+2022-09-14 20:23:10.4059 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.151.log
+2022-09-14 20:23:10.4366 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.152.log
+2022-09-14 20:23:10.4681 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.153.log
+2022-09-14 20:23:10.5000 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.154.log
+2022-09-14 20:23:10.5383 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.155.log
+2022-09-14 20:23:10.5621 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.156.log
+2022-09-14 20:23:10.5783 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.157.log
+2022-09-14 20:23:10.6104 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.158.log
+2022-09-14 20:23:10.6407 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.159.log
+2022-09-14 20:23:10.6557 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.160.log
+2022-09-14 20:23:10.6872 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.161.log
+2022-09-14 20:23:10.7035 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.162.log
+2022-09-14 20:23:10.7352 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.163.log
+2022-09-14 20:23:10.7508 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.164.log
+2022-09-14 20:23:10.7810 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.165.log
+2022-09-14 20:23:10.7964 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.166.log
+2022-09-14 20:23:10.8123 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.167.log
+2022-09-14 20:23:10.8432 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.168.log
+2022-09-14 20:23:10.8591 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.169.log
+2022-09-14 20:23:10.8749 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.170.log
+2022-09-14 20:23:10.9053 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.171.log
+2022-09-14 20:23:10.9216 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.172.log
+2022-09-14 20:23:10.9379 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.173.log
+2022-09-14 20:23:10.9687 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.174.log
+2022-09-14 20:23:10.9842 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.175.log
+2022-09-14 20:23:11.0152 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.176.log
+2022-09-14 20:23:11.0315 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.177.log
+2022-09-14 20:23:11.0618 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.178.log
+2022-09-14 20:23:11.0776 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.179.log
+2022-09-14 20:23:11.0947 Info Shutting down logging...
+2022-09-14 20:23:11.0947 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-23.180.log
+2022-09-14 20:23:11.1987 Error Error has been raised. Exception: System.IO.IOException: 管道的另一端上无任何进程。
+   at System.ConsolePal.WindowsConsoleStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.StreamWriter.Flush(Boolean flushStream, Boolean flushEncoder)
+   at System.IO.StreamWriter.WriteLine(String value)
+   at System.IO.TextWriter.SyncTextWriter.WriteLine(String value)
+   at NLog.Targets.ConsoleTarget.WriteToOutput(String textLine)
+   at NLog.Targets.Target.Write(AsyncLogEventInfo logEvent)
+2022-09-14 20:23:11.2030 Error Error has been raised. Exception: System.IO.IOException: 管道的另一端上无任何进程。
+   at System.ConsolePal.WindowsConsoleStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.StreamWriter.Flush(Boolean flushStream, Boolean flushEncoder)
+   at System.IO.StreamWriter.WriteLine(String value)
+   at System.IO.TextWriter.SyncTextWriter.WriteLine(String value)
+   at NLog.Targets.ConsoleTarget.WriteToOutput(String textLine)
+   at NLog.Targets.Target.Write(AsyncLogEventInfo logEvent)
+2022-09-14 20:23:11.2030 Info Logger has been shut down.
+2022-09-14 20:23:57.8563 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-14 20:23:57.8636 Info Loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-14 20:23:57.8841 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.0.2.652. Product version: 1.0.2.
+2022-09-14 20:23:57.8841 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2022-09-14 20:23:57.8841 Info Message Template Auto Format enabled
+2022-09-14 20:23:57.9766 Info Adding target File Target[target1]
+2022-09-14 20:23:57.9766 Info Adding target Console Target[target2]
+2022-09-14 20:23:57.9870 Info Configured from an XML element in E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config...
+2022-09-14 20:23:57.9870 Info Found 35 configuration items
+2022-09-14 20:23:58.0410 Info Configuration initialized.
+2022-09-14 20:23:58.0410 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2022-09-14 20:24:05.3416 Info Shutting down logging...
+2022-09-14 20:24:05.4488 Info Logger has been shut down.
+2022-09-14 20:27:13.1966 Warn Error when setting property 'ArchiveAboveSize' on 'File Target[target1]' Exception: System.ArgumentException: 1024 * 1024 * 1024 is not a valid value for Int64. (Parameter 'value')
+ ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt64(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int64.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at System.ComponentModel.Int64Converter.FromString(String value, NumberFormatInfo formatInfo)
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   --- End of inner exception stack trace ---
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   at System.ComponentModel.TypeConverter.ConvertFromInvariantString(String text)
+   at NLog.Internal.PropertyHelper.TryTypeConverterConversion(Type type, String value, Object& newValue)
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object obj, String propertyName, String value, ConfigurationItemFactory configurationItemFactory)
+2022-09-14 20:27:13.2030 Warn Error when setting '1024 * 1024 * 1024' on attibute 'archiveAboveSize'
+2022-09-14 20:27:13.2030 Error Parsing configuration from E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config. 
+ ---> NLog.NLogConfigurationException: Error when setting property 'ArchiveAboveSize' on File Target[target1]
+ ---> System.ArgumentException: 1024 * 1024 * 1024 is not a valid value for Int64. (Parameter 'value')
+ ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt64(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int64.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at System.ComponentModel.Int64Converter.FromString(String value, NumberFormatInfo formatInfo)
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   --- End of inner exception stack trace ---
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   at System.ComponentModel.TypeConverter.ConvertFromInvariantString(String text)
+   at NLog.Internal.PropertyHelper.TryTypeConverterConversion(Type type, String value, Object& newValue)
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object obj, String propertyName, String value, ConfigurationItemFactory configurationItemFactory)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object obj, String propertyName, String value, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.XmlLoggingConfiguration.ConfigureObjectFromAttributes(Object targetObject, NLogXmlElement element, Boolean ignoreType)
+   at NLog.Config.XmlLoggingConfiguration.ParseTargetElement(Target target, NLogXmlElement targetElement, Dictionary`2 typeNameToDefaultTargetParameters)
+   at NLog.Config.XmlLoggingConfiguration.ParseTargetsElement(NLogXmlElement targetsElement)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.ParseTopLevel(NLogXmlElement content, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2022-09-14 20:27:13.2030 Warn Failed loading config from E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config. Invalid XML?
+2022-09-14 20:27:40.9379 Warn Error when setting property 'ArchiveAboveSize' on 'File Target[target1]' Exception: System.ArgumentException: 1024 * 1024 * 1024 is not a valid value for Int64. (Parameter 'value')
+ ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt64(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int64.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at System.ComponentModel.Int64Converter.FromString(String value, NumberFormatInfo formatInfo)
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   --- End of inner exception stack trace ---
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   at System.ComponentModel.TypeConverter.ConvertFromInvariantString(String text)
+   at NLog.Internal.PropertyHelper.TryTypeConverterConversion(Type type, String value, Object& newValue)
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object obj, String propertyName, String value, ConfigurationItemFactory configurationItemFactory)
+2022-09-14 20:27:40.9379 Warn Error when setting '1024 * 1024 * 1024' on attibute 'archiveAboveSize'
+2022-09-14 20:27:40.9379 Error Parsing configuration from E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config. 
+ ---> NLog.NLogConfigurationException: Error when setting property 'ArchiveAboveSize' on File Target[target1]
+ ---> System.ArgumentException: 1024 * 1024 * 1024 is not a valid value for Int64. (Parameter 'value')
+ ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt64(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int64.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at System.ComponentModel.Int64Converter.FromString(String value, NumberFormatInfo formatInfo)
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   --- End of inner exception stack trace ---
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   at System.ComponentModel.TypeConverter.ConvertFromInvariantString(String text)
+   at NLog.Internal.PropertyHelper.TryTypeConverterConversion(Type type, String value, Object& newValue)
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object obj, String propertyName, String value, ConfigurationItemFactory configurationItemFactory)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object obj, String propertyName, String value, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.XmlLoggingConfiguration.ConfigureObjectFromAttributes(Object targetObject, NLogXmlElement element, Boolean ignoreType)
+   at NLog.Config.XmlLoggingConfiguration.ParseTargetElement(Target target, NLogXmlElement targetElement, Dictionary`2 typeNameToDefaultTargetParameters)
+   at NLog.Config.XmlLoggingConfiguration.ParseTargetsElement(NLogXmlElement targetsElement)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.ParseTopLevel(NLogXmlElement content, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2022-09-14 20:27:40.9379 Warn Failed loading config from E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config. Invalid XML?
+2022-09-14 20:28:19.7708 Debug ScanAssembly('NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c')
+2022-09-14 20:28:19.8806 Debug Search for auto loading files, location: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\
+2022-09-14 20:28:19.8806 Debug Start auto loading, location: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\
+2022-09-14 20:28:19.8806 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-14 20:28:19.8806 Info Loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-14 20:28:19.9023 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.0.2.652. Product version: 1.0.2.
+2022-09-14 20:28:19.9023 Debug ScanAssembly('NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c')
+2022-09-14 20:28:19.9058 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2022-09-14 20:28:19.9058 Debug Auto loading done
+2022-09-14 20:28:19.9058 Info Message Template Auto Format enabled
+2022-09-14 20:28:19.9297 Debug Setting 'UppercaseLayoutRendererWrapper.uppercase' to 'true'
+2022-09-14 20:28:19.9753 Debug Setting 'FileTarget.name' to 'target1'
+2022-09-14 20:28:19.9753 Debug Setting 'FileTarget.fileName' to 'logs/${date:format=yyyy-MM-dd-HH-mm}.log'
+2022-09-14 20:28:19.9753 Debug Setting 'DateLayoutRenderer.format' to 'yyyy-MM-dd-HH-mm'
+2022-09-14 20:28:19.9753 Debug Setting 'FileTarget.archiveEvery' to 'Minute'
+2022-09-14 20:28:19.9753 Debug Setting 'FileTarget.archiveAboveSize' to '1024 * 1024 * 1024'
+2022-09-14 20:28:20.0469 Warn Error when setting property 'ArchiveAboveSize' on 'File Target[target1]' Exception: System.ArgumentException: 1024 * 1024 * 1024 is not a valid value for Int64. (Parameter 'value')
+ ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt64(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int64.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at System.ComponentModel.Int64Converter.FromString(String value, NumberFormatInfo formatInfo)
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   --- End of inner exception stack trace ---
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   at System.ComponentModel.TypeConverter.ConvertFromInvariantString(String text)
+   at NLog.Internal.PropertyHelper.TryTypeConverterConversion(Type type, String value, Object& newValue)
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object obj, String propertyName, String value, ConfigurationItemFactory configurationItemFactory)
+2022-09-14 20:28:20.0469 Warn Error when setting '1024 * 1024 * 1024' on attibute 'archiveAboveSize'
+2022-09-14 20:28:20.0469 Error Parsing configuration from E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config. 
+ ---> NLog.NLogConfigurationException: Error when setting property 'ArchiveAboveSize' on File Target[target1]
+ ---> System.ArgumentException: 1024 * 1024 * 1024 is not a valid value for Int64. (Parameter 'value')
+ ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt64(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int64.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at System.ComponentModel.Int64Converter.FromString(String value, NumberFormatInfo formatInfo)
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   --- End of inner exception stack trace ---
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   at System.ComponentModel.TypeConverter.ConvertFromInvariantString(String text)
+   at NLog.Internal.PropertyHelper.TryTypeConverterConversion(Type type, String value, Object& newValue)
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object obj, String propertyName, String value, ConfigurationItemFactory configurationItemFactory)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object obj, String propertyName, String value, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.XmlLoggingConfiguration.ConfigureObjectFromAttributes(Object targetObject, NLogXmlElement element, Boolean ignoreType)
+   at NLog.Config.XmlLoggingConfiguration.ParseTargetElement(Target target, NLogXmlElement targetElement, Dictionary`2 typeNameToDefaultTargetParameters)
+   at NLog.Config.XmlLoggingConfiguration.ParseTargetsElement(NLogXmlElement targetsElement)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.ParseTopLevel(NLogXmlElement content, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2022-09-14 20:28:20.0469 Warn Failed loading config from E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config. Invalid XML?
+2022-09-14 20:28:20.0469 Debug --- NLog configuration dump ---
+2022-09-14 20:28:20.0469 Debug Targets:
+2022-09-14 20:28:20.0469 Debug Rules:
+2022-09-14 20:28:20.0469 Debug --- End of NLog configuration dump ---
+2022-09-14 20:28:20.0469 Info Found 0 configuration items
+2022-09-14 20:28:20.0893 Debug Watching path 'E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1' filter 'NLog.config' for changes.
+2022-09-14 20:28:20.0893 Info Configuration initialized.
+2022-09-14 20:28:20.0893 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2022-09-14 20:28:20.0948 Debug Targets for _09_Logger.Program by level:
+2022-09-14 20:28:20.0948 Debug Trace =>
+2022-09-14 20:28:20.0948 Debug Debug =>
+2022-09-14 20:28:20.0948 Debug Info =>
+2022-09-14 20:28:20.0948 Debug Warn =>
+2022-09-14 20:28:20.0948 Debug Error =>
+2022-09-14 20:28:20.0948 Debug Fatal =>
+2022-09-14 20:28:53.3691 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-14 20:28:53.3753 Info Loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-14 20:28:53.3753 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.0.2.652. Product version: 1.0.2.
+2022-09-14 20:28:53.3917 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2022-09-14 20:28:53.3917 Info Message Template Auto Format enabled
+2022-09-14 20:28:53.4641 Info Adding target File Target[target1]
+2022-09-14 20:28:53.4641 Info Adding target Console Target[target2]
+2022-09-14 20:28:53.4741 Info Configured from an XML element in E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config...
+2022-09-14 20:28:53.4851 Info Found 35 configuration items
+2022-09-14 20:28:53.5153 Info Configuration initialized.
+2022-09-14 20:28:53.5153 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2022-09-14 20:28:53.6280 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.0.log
+2022-09-14 20:28:53.6557 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.1.log
+2022-09-14 20:28:53.6870 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.2.log
+2022-09-14 20:28:53.7184 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.3.log
+2022-09-14 20:28:53.7659 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.4.log
+2022-09-14 20:28:53.7981 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.5.log
+2022-09-14 20:28:53.8458 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.6.log
+2022-09-14 20:28:53.8903 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.7.log
+2022-09-14 20:28:53.9226 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.8.log
+2022-09-14 20:28:53.9526 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.9.log
+2022-09-14 20:28:53.9841 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.10.log
+2022-09-14 20:28:54.0311 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.11.log
+2022-09-14 20:28:54.0626 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.12.log
+2022-09-14 20:28:54.0930 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.13.log
+2022-09-14 20:28:54.1257 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.14.log
+2022-09-14 20:28:54.1552 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.15.log
+2022-09-14 20:28:54.2021 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.16.log
+2022-09-14 20:28:54.2512 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.17.log
+2022-09-14 20:28:54.2960 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.18.log
+2022-09-14 20:28:54.3438 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.19.log
+2022-09-14 20:28:54.3908 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.20.log
+2022-09-14 20:28:54.4367 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.21.log
+2022-09-14 20:28:54.4687 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.22.log
+2022-09-14 20:28:54.5311 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.23.log
+2022-09-14 20:28:54.5785 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.24.log
+2022-09-14 20:28:54.6096 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.25.log
+2022-09-14 20:28:54.6559 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.26.log
+2022-09-14 20:28:54.6875 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.27.log
+2022-09-14 20:28:54.7332 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.28.log
+2022-09-14 20:28:54.7662 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.29.log
+2022-09-14 20:28:54.7960 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.30.log
+2022-09-14 20:28:54.8437 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.31.log
+2022-09-14 20:28:54.8747 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.32.log
+2022-09-14 20:28:54.9052 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.33.log
+2022-09-14 20:28:54.9374 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.34.log
+2022-09-14 20:28:54.9837 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.35.log
+2022-09-14 20:28:55.0170 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.36.log
+2022-09-14 20:28:55.0475 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.37.log
+2022-09-14 20:28:55.0930 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.38.log
+2022-09-14 20:28:55.1245 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.39.log
+2022-09-14 20:28:55.1729 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.40.log
+2022-09-14 20:28:55.2181 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.41.log
+2022-09-14 20:28:55.2666 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.42.log
+2022-09-14 20:28:55.3133 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.43.log
+2022-09-14 20:28:55.3759 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.44.log
+2022-09-14 20:28:55.4071 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.45.log
+2022-09-14 20:28:55.4545 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.46.log
+2022-09-14 20:28:55.4841 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.47.log
+2022-09-14 20:28:55.5331 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.48.log
+2022-09-14 20:28:55.5789 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.49.log
+2022-09-14 20:28:55.6105 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.50.log
+2022-09-14 20:28:55.7181 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.51.log
+2022-09-14 20:28:55.7506 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.52.log
+2022-09-14 20:28:55.7980 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.53.log
+2022-09-14 20:28:55.8270 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.54.log
+2022-09-14 20:28:55.8755 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.55.log
+2022-09-14 20:28:55.9214 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.56.log
+2022-09-14 20:28:55.9534 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.57.log
+2022-09-14 20:28:55.9852 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.58.log
+2022-09-14 20:28:56.0151 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.59.log
+2022-09-14 20:28:56.0625 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.60.log
+2022-09-14 20:28:56.1083 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.61.log
+2022-09-14 20:28:56.1429 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.62.log
+2022-09-14 20:28:56.1871 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.63.log
+2022-09-14 20:28:56.2190 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.64.log
+2022-09-14 20:28:56.2815 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.65.log
+2022-09-14 20:28:56.3123 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.66.log
+2022-09-14 20:28:56.3429 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.67.log
+2022-09-14 20:28:56.3908 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.68.log
+2022-09-14 20:28:56.4216 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.69.log
+2022-09-14 20:28:56.4528 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.70.log
+2022-09-14 20:28:56.4835 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.71.log
+2022-09-14 20:28:56.5153 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.72.log
+2022-09-14 20:28:56.5463 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.73.log
+2022-09-14 20:28:56.5939 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.74.log
+2022-09-14 20:28:56.6096 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.75.log
+2022-09-14 20:28:56.6559 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.76.log
+2022-09-14 20:28:56.6710 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.77.log
+2022-09-14 20:28:56.7022 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.78.log
+2022-09-14 20:28:56.7490 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.79.log
+2022-09-14 20:28:56.7803 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.80.log
+2022-09-14 20:28:56.8123 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.81.log
+2022-09-14 20:28:56.8444 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.82.log
+2022-09-14 20:28:56.8902 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.83.log
+2022-09-14 20:28:56.9225 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.84.log
+2022-09-14 20:28:56.9538 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.85.log
+2022-09-14 20:28:56.9851 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.86.log
+2022-09-14 20:28:57.0147 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.87.log
+2022-09-14 20:28:57.0625 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.88.log
+2022-09-14 20:28:57.0943 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.89.log
+2022-09-14 20:28:57.1407 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.90.log
+2022-09-14 20:28:57.1727 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.91.log
+2022-09-14 20:28:57.2185 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.92.log
+2022-09-14 20:28:57.2506 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.93.log
+2022-09-14 20:28:57.2811 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.94.log
+2022-09-14 20:28:57.3120 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.95.log
+2022-09-14 20:28:57.3608 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.96.log
+2022-09-14 20:28:57.4051 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.97.log
+2022-09-14 20:28:57.4527 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.98.log
+2022-09-14 20:28:57.4999 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.99.log
+2022-09-14 20:28:57.5602 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.100.log
+2022-09-14 20:28:57.5926 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.101.log
+2022-09-14 20:28:57.6257 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.102.log
+2022-09-14 20:28:57.6559 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.103.log
+2022-09-14 20:28:57.6873 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.104.log
+2022-09-14 20:28:57.7350 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.105.log
+2022-09-14 20:28:57.7664 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.106.log
+2022-09-14 20:28:57.8134 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.107.log
+2022-09-14 20:28:57.8439 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.108.log
+2022-09-14 20:28:57.8753 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.109.log
+2022-09-14 20:28:57.9218 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.110.log
+2022-09-14 20:28:57.9374 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.111.log
+2022-09-14 20:28:57.9684 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.112.log
+2022-09-14 20:28:58.0145 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.113.log
+2022-09-14 20:28:58.0463 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.114.log
+2022-09-14 20:28:58.0792 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.115.log
+2022-09-14 20:28:58.1095 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.116.log
+2022-09-14 20:28:58.1405 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.117.log
+2022-09-14 20:28:58.1870 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.118.log
+2022-09-14 20:28:58.2178 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.119.log
+2022-09-14 20:28:58.2495 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.120.log
+2022-09-14 20:28:58.2813 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.121.log
+2022-09-14 20:28:58.3285 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.122.log
+2022-09-14 20:28:58.3583 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.123.log
+2022-09-14 20:28:58.3902 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.124.log
+2022-09-14 20:28:58.4365 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.125.log
+2022-09-14 20:28:58.4694 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.126.log
+2022-09-14 20:28:58.5001 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.127.log
+2022-09-14 20:28:58.5474 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.128.log
+2022-09-14 20:28:58.5783 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.129.log
+2022-09-14 20:28:58.6085 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.130.log
+2022-09-14 20:28:58.6399 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.131.log
+2022-09-14 20:28:58.6728 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.132.log
+2022-09-14 20:28:58.7192 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.133.log
+2022-09-14 20:28:58.7504 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.134.log
+2022-09-14 20:28:58.7811 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.135.log
+2022-09-14 20:28:58.8283 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.136.log
+2022-09-14 20:28:58.8594 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.137.log
+2022-09-14 20:28:58.8905 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.138.log
+2022-09-14 20:28:58.9225 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.139.log
+2022-09-14 20:28:58.9530 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.140.log
+2022-09-14 20:28:58.9993 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.141.log
+2022-09-14 20:28:59.0307 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.142.log
+2022-09-14 20:28:59.0770 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.143.log
+2022-09-14 20:28:59.1091 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.144.log
+2022-09-14 20:28:59.1551 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.145.log
+2022-09-14 20:28:59.1890 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.146.log
+2022-09-14 20:28:59.2347 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.147.log
+2022-09-14 20:28:59.2656 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.148.log
+2022-09-14 20:28:59.2970 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.149.log
+2022-09-14 20:28:59.3282 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.150.log
+2022-09-14 20:28:59.3746 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.151.log
+2022-09-14 20:28:59.4053 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.152.log
+2022-09-14 20:28:59.4535 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.153.log
+2022-09-14 20:28:59.4859 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.154.log
+2022-09-14 20:28:59.5321 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.155.log
+2022-09-14 20:28:59.5946 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.156.log
+2022-09-14 20:28:59.6416 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.157.log
+2022-09-14 20:28:59.6874 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.158.log
+2022-09-14 20:28:59.7191 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.159.log
+2022-09-14 20:28:59.7662 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.160.log
+2022-09-14 20:28:59.7965 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.161.log
+2022-09-14 20:28:59.8278 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.162.log
+2022-09-14 20:28:59.8589 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.163.log
+2022-09-14 20:28:59.8912 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.164.log
+2022-09-14 20:28:59.9373 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.165.log
+2022-09-14 20:28:59.9687 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.166.log
+2022-09-14 20:28:59.9854 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.167.log
+2022-09-14 20:29:00.0010 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-28.168.log
+2022-09-14 20:29:00.0315 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.0.log
+2022-09-14 20:29:00.0620 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.1.log
+2022-09-14 20:29:00.0938 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.2.log
+2022-09-14 20:29:00.1243 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.3.log
+2022-09-14 20:29:00.1554 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.4.log
+2022-09-14 20:29:00.1879 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.5.log
+2022-09-14 20:29:00.2177 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.6.log
+2022-09-14 20:29:00.2498 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.7.log
+2022-09-14 20:29:00.2804 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.8.log
+2022-09-14 20:29:00.3128 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.9.log
+2022-09-14 20:29:00.3437 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.10.log
+2022-09-14 20:29:00.3914 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.11.log
+2022-09-14 20:29:00.4217 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.12.log
+2022-09-14 20:29:00.4681 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.13.log
+2022-09-14 20:29:00.4993 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.14.log
+2022-09-14 20:29:00.5649 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.15.log
+2022-09-14 20:29:00.5931 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.16.log
+2022-09-14 20:29:00.6243 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.17.log
+2022-09-14 20:29:00.6567 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.18.log
+2022-09-14 20:29:00.7033 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.19.log
+2022-09-14 20:29:00.7336 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.20.log
+2022-09-14 20:29:00.7646 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.21.log
+2022-09-14 20:29:00.7981 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.22.log
+2022-09-14 20:29:00.8278 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.23.log
+2022-09-14 20:29:00.8601 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.24.log
+2022-09-14 20:29:00.9054 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.25.log
+2022-09-14 20:29:00.9375 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.26.log
+2022-09-14 20:29:00.9689 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.27.log
+2022-09-14 20:29:01.0011 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.28.log
+2022-09-14 20:29:01.0472 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.29.log
+2022-09-14 20:29:01.0787 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.30.log
+2022-09-14 20:29:01.1091 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.31.log
+2022-09-14 20:29:01.1564 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.32.log
+2022-09-14 20:29:01.1877 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.33.log
+2022-09-14 20:29:01.2184 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.34.log
+2022-09-14 20:29:01.2502 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.35.log
+2022-09-14 20:29:01.2823 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.36.log
+2022-09-14 20:29:01.3114 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.37.log
+2022-09-14 20:29:01.3431 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-29.38.log
+2022-09-14 20:29:19.0987 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-14 20:29:19.0987 Info Loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-14 20:29:19.1192 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.0.2.652. Product version: 1.0.2.
+2022-09-14 20:29:19.1192 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2022-09-14 20:29:19.1192 Info Message Template Auto Format enabled
+2022-09-14 20:29:19.2813 Warn Error when setting property 'ArchiveAboveSize' on 'File Target[target1]' Exception: System.ArgumentException: 1024 * 1024 is not a valid value for Int64. (Parameter 'value')
+ ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt64(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int64.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at System.ComponentModel.Int64Converter.FromString(String value, NumberFormatInfo formatInfo)
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   --- End of inner exception stack trace ---
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   at System.ComponentModel.TypeConverter.ConvertFromInvariantString(String text)
+   at NLog.Internal.PropertyHelper.TryTypeConverterConversion(Type type, String value, Object& newValue)
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object obj, String propertyName, String value, ConfigurationItemFactory configurationItemFactory)
+2022-09-14 20:29:19.2860 Warn Error when setting '1024 * 1024' on attibute 'archiveAboveSize'
+2022-09-14 20:29:19.2860 Error Parsing configuration from E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config. 
+ ---> NLog.NLogConfigurationException: Error when setting property 'ArchiveAboveSize' on File Target[target1]
+ ---> System.ArgumentException: 1024 * 1024 is not a valid value for Int64. (Parameter 'value')
+ ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt64(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int64.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at System.ComponentModel.Int64Converter.FromString(String value, NumberFormatInfo formatInfo)
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   --- End of inner exception stack trace ---
+   at System.ComponentModel.BaseNumberConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   at System.ComponentModel.TypeConverter.ConvertFromInvariantString(String text)
+   at NLog.Internal.PropertyHelper.TryTypeConverterConversion(Type type, String value, Object& newValue)
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object obj, String propertyName, String value, ConfigurationItemFactory configurationItemFactory)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object obj, String propertyName, String value, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.XmlLoggingConfiguration.ConfigureObjectFromAttributes(Object targetObject, NLogXmlElement element, Boolean ignoreType)
+   at NLog.Config.XmlLoggingConfiguration.ParseTargetElement(Target target, NLogXmlElement targetElement, Dictionary`2 typeNameToDefaultTargetParameters)
+   at NLog.Config.XmlLoggingConfiguration.ParseTargetsElement(NLogXmlElement targetsElement)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.ParseTopLevel(NLogXmlElement content, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2022-09-14 20:29:19.2860 Warn Failed loading config from E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config. Invalid XML?
+2022-09-14 20:29:19.3005 Info Found 0 configuration items
+2022-09-14 20:29:19.3374 Info Configuration initialized.
+2022-09-14 20:29:19.3374 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2022-09-14 20:30:24.7313 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-14 20:30:24.7368 Info Loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-14 20:30:24.7539 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.0.2.652. Product version: 1.0.2.
+2022-09-14 20:30:24.7539 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2022-09-14 20:30:24.7539 Info Message Template Auto Format enabled
+2022-09-14 20:30:24.8534 Info Adding target File Target[target1]
+2022-09-14 20:30:24.8534 Info Adding target Console Target[target2]
+2022-09-14 20:30:24.8646 Info Configured from an XML element in E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config...
+2022-09-14 20:30:24.8779 Info Found 35 configuration items
+2022-09-14 20:30:24.9379 Info Configuration initialized.
+2022-09-14 20:30:24.9379 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2022-09-14 20:30:51.1246 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-30.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-30.0.log
+2022-09-14 20:31:00.0151 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-30.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-14-20-30.1.log
+2022-09-15 21:16:07.1868 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-15 21:16:07.1911 Info Loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-15 21:16:07.2030 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.0.2.652. Product version: 1.0.2.
+2022-09-15 21:16:07.2030 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2022-09-15 21:16:07.2030 Info Message Template Auto Format enabled
+2022-09-15 21:16:07.2721 Info Adding target File Target[target1]
+2022-09-15 21:16:07.2721 Info Adding target Console Target[target2]
+2022-09-15 21:16:07.2721 Info Configured from an XML element in E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config...
+2022-09-15 21:16:07.2876 Info Found 35 configuration items
+2022-09-15 21:16:07.3189 Info Configuration initialized.
+2022-09-15 21:16:07.3189 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2022-09-15 21:16:47.2229 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-15 21:16:47.2229 Info Loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-15 21:16:47.2365 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.0.2.652. Product version: 1.0.2.
+2022-09-15 21:16:47.2365 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2022-09-15 21:16:47.2365 Info Message Template Auto Format enabled
+2022-09-15 21:16:47.2899 Info Adding target File Target[target1]
+2022-09-15 21:16:47.2899 Info Adding target Console Target[target2]
+2022-09-15 21:16:47.2983 Info Configured from an XML element in E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config...
+2022-09-15 21:16:47.2983 Info Found 35 configuration items
+2022-09-15 21:16:47.3399 Info Configuration initialized.
+2022-09-15 21:16:47.3399 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2022-09-15 21:16:57.0306 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-16.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-16.0.log
+2022-09-15 21:17:00.0000 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-16.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-16.1.log
+2022-09-15 21:17:10.4373 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-17.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-17.0.log
+2022-09-15 21:17:12.2031 Info Shutting down logging...
+2022-09-15 21:17:12.2503 Error Error has been raised. Exception: System.IO.IOException: 管道的另一端上无任何进程。
+   at System.ConsolePal.WindowsConsoleStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.StreamWriter.Flush(Boolean flushStream, Boolean flushEncoder)
+   at System.IO.StreamWriter.WriteLine(String value)
+   at System.IO.TextWriter.SyncTextWriter.WriteLine(String value)
+   at NLog.Targets.ConsoleTarget.WriteToOutput(String textLine)
+   at NLog.Targets.Target.Write(AsyncLogEventInfo logEvent)
+2022-09-15 21:17:12.2503 Error Error has been raised. Exception: System.IO.IOException: 管道的另一端上无任何进程。
+   at System.ConsolePal.WindowsConsoleStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.StreamWriter.Flush(Boolean flushStream, Boolean flushEncoder)
+   at System.IO.StreamWriter.WriteLine(String value)
+   at System.IO.TextWriter.SyncTextWriter.WriteLine(String value)
+   at NLog.Targets.ConsoleTarget.WriteToOutput(String textLine)
+   at NLog.Targets.Target.Write(AsyncLogEventInfo logEvent)
+2022-09-15 21:17:12.2503 Error Error has been raised. Exception: System.IO.IOException: 管道的另一端上无任何进程。
+   at System.ConsolePal.WindowsConsoleStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.StreamWriter.Flush(Boolean flushStream, Boolean flushEncoder)
+   at System.IO.StreamWriter.WriteLine(String value)
+   at System.IO.TextWriter.SyncTextWriter.WriteLine(String value)
+   at NLog.Targets.ConsoleTarget.WriteToOutput(String textLine)
+   at NLog.Targets.Target.Write(AsyncLogEventInfo logEvent)
+2022-09-15 21:17:12.2503 Error Error has been raised. Exception: System.IO.IOException: 管道的另一端上无任何进程。
+   at System.ConsolePal.WindowsConsoleStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.StreamWriter.Flush(Boolean flushStream, Boolean flushEncoder)
+   at System.IO.StreamWriter.WriteLine(String value)
+   at System.IO.TextWriter.SyncTextWriter.WriteLine(String value)
+   at NLog.Targets.ConsoleTarget.WriteToOutput(String textLine)
+   at NLog.Targets.Target.Write(AsyncLogEventInfo logEvent)
+2022-09-15 21:17:12.2503 Error Error has been raised. Exception: System.IO.IOException: 管道的另一端上无任何进程。
+   at System.ConsolePal.WindowsConsoleStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.StreamWriter.Flush(Boolean flushStream, Boolean flushEncoder)
+   at System.IO.StreamWriter.WriteLine(String value)
+   at System.IO.TextWriter.SyncTextWriter.WriteLine(String value)
+   at NLog.Targets.ConsoleTarget.WriteToOutput(String textLine)
+   at NLog.Targets.Target.Write(AsyncLogEventInfo logEvent)
+2022-09-15 21:17:12.2678 Error Error has been raised. Exception: System.IO.IOException: 管道的另一端上无任何进程。
+   at System.ConsolePal.WindowsConsoleStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.StreamWriter.Flush(Boolean flushStream, Boolean flushEncoder)
+   at System.IO.StreamWriter.WriteLine(String value)
+   at System.IO.TextWriter.SyncTextWriter.WriteLine(String value)
+   at NLog.Targets.ConsoleTarget.WriteToOutput(String textLine)
+   at NLog.Targets.Target.Write(AsyncLogEventInfo logEvent)
+2022-09-15 21:17:12.2678 Error Error has been raised. Exception: System.IO.IOException: 管道的另一端上无任何进程。
+   at System.ConsolePal.WindowsConsoleStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.StreamWriter.Flush(Boolean flushStream, Boolean flushEncoder)
+   at System.IO.StreamWriter.WriteLine(String value)
+   at System.IO.TextWriter.SyncTextWriter.WriteLine(String value)
+   at NLog.Targets.ConsoleTarget.WriteToOutput(String textLine)
+   at NLog.Targets.Target.Write(AsyncLogEventInfo logEvent)
+2022-09-15 21:17:12.2678 Info Logger has been shut down.
+2022-09-15 21:18:22.4745 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-15 21:18:22.4745 Info Loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-15 21:18:22.4892 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.0.2.652. Product version: 1.0.2.
+2022-09-15 21:18:22.4892 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2022-09-15 21:18:22.4892 Info Message Template Auto Format enabled
+2022-09-15 21:18:22.5539 Info Adding target File Target[target1]
+2022-09-15 21:18:22.5539 Info Adding target Console Target[target2]
+2022-09-15 21:18:22.5539 Info Configured from an XML element in E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config...
+2022-09-15 21:18:22.5702 Info Found 35 configuration items
+2022-09-15 21:18:22.6007 Info Configuration initialized.
+2022-09-15 21:18:22.6007 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2022-09-15 21:19:00.0157 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-18.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-18.0.log
+2022-09-15 21:20:00.0153 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-19.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-19.0.log
+2022-09-15 21:20:58.6862 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-15 21:20:58.6917 Info Loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-15 21:20:58.7026 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.0.2.652. Product version: 1.0.2.
+2022-09-15 21:20:58.7026 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2022-09-15 21:20:58.7026 Info Message Template Auto Format enabled
+2022-09-15 21:20:58.7631 Info Adding target File Target[target1]
+2022-09-15 21:20:58.7631 Info Adding target Console Target[target2]
+2022-09-15 21:20:58.7698 Info Configured from an XML element in E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config...
+2022-09-15 21:20:58.7698 Info Found 35 configuration items
+2022-09-15 21:20:58.8082 Info Configuration initialized.
+2022-09-15 21:20:58.8082 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2022-09-15 21:21:00.0005 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-20.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-20.0.log
+2022-09-15 21:22:00.0003 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-21.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-21.0.log
+2022-09-15 21:23:00.0153 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-22.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-22.0.log
+2022-09-15 21:24:43.3903 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-15 21:24:43.3903 Info Loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-15 21:24:43.3903 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.0.2.652. Product version: 1.0.2.
+2022-09-15 21:24:43.4055 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2022-09-15 21:24:43.4055 Info Message Template Auto Format enabled
+2022-09-15 21:24:43.4689 Info Adding target File Target[target1]
+2022-09-15 21:24:43.4689 Info Adding target Console Target[target2]
+2022-09-15 21:24:43.4689 Info Configured from an XML element in E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config...
+2022-09-15 21:24:43.4856 Info Found 35 configuration items
+2022-09-15 21:24:43.5134 Info Configuration initialized.
+2022-09-15 21:24:43.5134 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2022-09-15 21:25:00.0000 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-24.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-24.0.log
+2022-09-15 21:26:00.0097 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-25.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-25.0.log
+2022-09-15 21:26:39.5267 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-15 21:26:39.5267 Info Loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-15 21:26:39.5408 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.0.2.652. Product version: 1.0.2.
+2022-09-15 21:26:39.5408 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2022-09-15 21:26:39.5408 Info Message Template Auto Format enabled
+2022-09-15 21:26:39.6058 Info Adding target File Target[target1]
+2022-09-15 21:26:39.6058 Info Adding target Console Target[target2]
+2022-09-15 21:26:39.6136 Info Configured from an XML element in E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config...
+2022-09-15 21:26:39.6249 Info Found 35 configuration items
+2022-09-15 21:26:39.6531 Info Configuration initialized.
+2022-09-15 21:26:39.6531 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2022-09-15 21:27:00.0155 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-26.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-26.0.log
+2022-09-15 21:28:00.0155 Info FileTarget(Name=target1): Archiving E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-27.log to E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\logs\2022-09-15-21-27.0.log
+2022-09-15 22:41:25.5936 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-15 22:41:25.5936 Info Loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2022-09-15 22:41:25.6133 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.0.2.652. Product version: 1.0.2.
+2022-09-15 22:41:25.6133 Info Auto loading assembly file: E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2022-09-15 22:41:25.6133 Info Message Template Auto Format enabled
+2022-09-15 22:41:25.6861 Info Adding target File Target[target1]
+2022-09-15 22:41:25.6878 Info Adding target Console Target[target2]
+2022-09-15 22:41:25.6878 Info Configured from an XML element in E:\Code\XCode\Samples\_09_Logger\bin\Debug\netcoreapp3.1\NLog.config...
+2022-09-15 22:41:25.7028 Info Found 35 configuration items
+2022-09-15 22:41:25.7355 Info Configuration initialized.
+2022-09-15 22:41:25.7355 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2022-09-15 22:41:25.8312 Info Shutting down logging...
+2022-09-15 22:41:25.8834 Info Logger has been shut down.

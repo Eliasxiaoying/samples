@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qMxza5v3ZzDPuEOgYUvsqWLqk2bAVCHzlV0waGVSUfBaiV1Dm9G5cCr0mgKXrPW6v+kNG39jUqIDdZg5ldN47w==",
+  "success": true,
+  "projectFilePath": "F:\\Code\\csharp\\Samples\\_08_Options\\_08_Options.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.28\\microsoft.extensions.configuration.3.1.28.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.28\\microsoft.extensions.configuration.abstractions.3.1.28.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.28\\microsoft.extensions.configuration.fileextensions.3.1.28.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.28\\microsoft.extensions.fileproviders.abstractions.3.1.28.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.28\\microsoft.extensions.fileproviders.physical.3.1.28.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.28\\microsoft.extensions.filesystemglobbing.3.1.28.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.28\\microsoft.extensions.primitives.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

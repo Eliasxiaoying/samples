@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title></title>
+</head>
+<body>
+	<div>
+		UserName：<input type="text" id="userInput" />
+		Message：<input type="text" id="messageInput" />
+		<input type="button" id="sendButton" value="Send" />
+	</div>
+	<ul id="messagesList"></ul>
+	<script src="lib/jquery/dist/jquery.js"></script>
+	<script src="lib/signalr.min.js"></script>
+	<script>
+		var connection = new signalR.HubConnectionBuilder().withUrl("/chatHub").build();
+		connection.on("ReceiveMessage", function (user, message) {
+			var msg = user + " says " + message;
+			var li = document.createElement("li");
+			li.textContent = msg;
+			document.getElementById("messagesList").appendChild(li);
+		});
+
+		connection.start().catch(function (err) {
+			return console.error(err.toString());
+		});
+
+
+		document.getElementById("sendButton").addEventListener("click", function (event) {
+			var user = document.getElementById("userInput").value;
+			var message = document.getElementById("messageInput").value;
+			connection.invoke("SendMessage", user, message).catch(function (err) {
+				return console.error(err.toString());
+			});
+
+			event.preventDefault();
+		});
+
+	</script>
+</body>
+</html>

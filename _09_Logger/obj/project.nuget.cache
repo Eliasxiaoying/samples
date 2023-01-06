@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "d33mr+Q6HNNDlpLIIFox6nX8oGuBGDFrm7oIDCxpE8sNiVYIsxKUeOoOXiCv6qFbLP89PyvfYg9ytuYbKTj6ww==",
+  "success": true,
+  "projectFilePath": "F:\\Code\\csharp\\Samples\\_09_Logger\\_09_Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.logging\\2.0.1\\microsoft.extensions.logging.2.0.1.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.1\\microsoft.extensions.logging.abstractions.2.0.1.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.options\\2.0.1\\microsoft.extensions.options.2.0.1.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\nlog\\4.5.4\\nlog.4.5.4.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\nlog.extensions.logging\\1.0.2\\nlog.extensions.logging.1.0.2.nupkg.sha512",
+    "C:\\Users\\Elias\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

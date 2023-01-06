@@ -1,0 +1,15 @@
+F:\Code\csharp\Samples\_23_Expression\bin\Debug\net6.0\_23_Expression.exe
+F:\Code\csharp\Samples\_23_Expression\bin\Debug\net6.0\_23_Expression.deps.json
+F:\Code\csharp\Samples\_23_Expression\bin\Debug\net6.0\_23_Expression.runtimeconfig.json
+F:\Code\csharp\Samples\_23_Expression\bin\Debug\net6.0\_23_Expression.dll
+F:\Code\csharp\Samples\_23_Expression\bin\Debug\net6.0\_23_Expression.pdb
+F:\Code\csharp\Samples\_23_Expression\obj\Debug\net6.0\_23_Expression.csproj.AssemblyReference.cache
+F:\Code\csharp\Samples\_23_Expression\obj\Debug\net6.0\_23_Expression.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\csharp\Samples\_23_Expression\obj\Debug\net6.0\_23_Expression.AssemblyInfoInputs.cache
+F:\Code\csharp\Samples\_23_Expression\obj\Debug\net6.0\_23_Expression.AssemblyInfo.cs
+F:\Code\csharp\Samples\_23_Expression\obj\Debug\net6.0\_23_Expression.csproj.CoreCompileInputs.cache
+F:\Code\csharp\Samples\_23_Expression\obj\Debug\net6.0\_23_Expression.dll
+F:\Code\csharp\Samples\_23_Expression\obj\Debug\net6.0\refint\_23_Expression.dll
+F:\Code\csharp\Samples\_23_Expression\obj\Debug\net6.0\_23_Expression.pdb
+F:\Code\csharp\Samples\_23_Expression\obj\Debug\net6.0\_23_Expression.genruntimeconfig.cache
+F:\Code\csharp\Samples\_23_Expression\obj\Debug\net6.0\ref\_23_Expression.dll

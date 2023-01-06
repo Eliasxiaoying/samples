@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\_04_FileServer.props" />
+</Project>

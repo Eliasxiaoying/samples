@@ -1,0 +1,15 @@
+F:\Code\csharp\Samples\_24_IO_Serialize\bin\Debug\net6.0\_24_IO_Serialize.exe
+F:\Code\csharp\Samples\_24_IO_Serialize\bin\Debug\net6.0\_24_IO_Serialize.deps.json
+F:\Code\csharp\Samples\_24_IO_Serialize\bin\Debug\net6.0\_24_IO_Serialize.runtimeconfig.json
+F:\Code\csharp\Samples\_24_IO_Serialize\bin\Debug\net6.0\_24_IO_Serialize.dll
+F:\Code\csharp\Samples\_24_IO_Serialize\bin\Debug\net6.0\_24_IO_Serialize.pdb
+F:\Code\csharp\Samples\_24_IO_Serialize\obj\Debug\net6.0\_24_IO_Serialize.csproj.AssemblyReference.cache
+F:\Code\csharp\Samples\_24_IO_Serialize\obj\Debug\net6.0\_24_IO_Serialize.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\csharp\Samples\_24_IO_Serialize\obj\Debug\net6.0\_24_IO_Serialize.AssemblyInfoInputs.cache
+F:\Code\csharp\Samples\_24_IO_Serialize\obj\Debug\net6.0\_24_IO_Serialize.AssemblyInfo.cs
+F:\Code\csharp\Samples\_24_IO_Serialize\obj\Debug\net6.0\_24_IO_Serialize.csproj.CoreCompileInputs.cache
+F:\Code\csharp\Samples\_24_IO_Serialize\obj\Debug\net6.0\_24_IO_Serialize.dll
+F:\Code\csharp\Samples\_24_IO_Serialize\obj\Debug\net6.0\refint\_24_IO_Serialize.dll
+F:\Code\csharp\Samples\_24_IO_Serialize\obj\Debug\net6.0\_24_IO_Serialize.pdb
+F:\Code\csharp\Samples\_24_IO_Serialize\obj\Debug\net6.0\_24_IO_Serialize.genruntimeconfig.cache
+F:\Code\csharp\Samples\_24_IO_Serialize\obj\Debug\net6.0\ref\_24_IO_Serialize.dll

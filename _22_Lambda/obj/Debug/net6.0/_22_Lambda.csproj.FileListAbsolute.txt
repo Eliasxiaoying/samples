@@ -1,0 +1,15 @@
+F:\Code\csharp\Samples\_22_Lambda\bin\Debug\net6.0\_22_Lambda.exe
+F:\Code\csharp\Samples\_22_Lambda\bin\Debug\net6.0\_22_Lambda.deps.json
+F:\Code\csharp\Samples\_22_Lambda\bin\Debug\net6.0\_22_Lambda.runtimeconfig.json
+F:\Code\csharp\Samples\_22_Lambda\bin\Debug\net6.0\_22_Lambda.dll
+F:\Code\csharp\Samples\_22_Lambda\bin\Debug\net6.0\_22_Lambda.pdb
+F:\Code\csharp\Samples\_22_Lambda\obj\Debug\net6.0\_22_Lambda.csproj.AssemblyReference.cache
+F:\Code\csharp\Samples\_22_Lambda\obj\Debug\net6.0\_22_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\csharp\Samples\_22_Lambda\obj\Debug\net6.0\_22_Lambda.AssemblyInfoInputs.cache
+F:\Code\csharp\Samples\_22_Lambda\obj\Debug\net6.0\_22_Lambda.AssemblyInfo.cs
+F:\Code\csharp\Samples\_22_Lambda\obj\Debug\net6.0\_22_Lambda.csproj.CoreCompileInputs.cache
+F:\Code\csharp\Samples\_22_Lambda\obj\Debug\net6.0\_22_Lambda.dll
+F:\Code\csharp\Samples\_22_Lambda\obj\Debug\net6.0\refint\_22_Lambda.dll
+F:\Code\csharp\Samples\_22_Lambda\obj\Debug\net6.0\_22_Lambda.pdb
+F:\Code\csharp\Samples\_22_Lambda\obj\Debug\net6.0\_22_Lambda.genruntimeconfig.cache
+F:\Code\csharp\Samples\_22_Lambda\obj\Debug\net6.0\ref\_22_Lambda.dll

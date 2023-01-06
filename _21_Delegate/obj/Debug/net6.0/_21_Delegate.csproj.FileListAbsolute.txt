@@ -1,0 +1,15 @@
+F:\Code\csharp\Samples\_21_Delegate\bin\Debug\net6.0\_21_Delegate.exe
+F:\Code\csharp\Samples\_21_Delegate\bin\Debug\net6.0\_21_Delegate.deps.json
+F:\Code\csharp\Samples\_21_Delegate\bin\Debug\net6.0\_21_Delegate.runtimeconfig.json
+F:\Code\csharp\Samples\_21_Delegate\bin\Debug\net6.0\_21_Delegate.dll
+F:\Code\csharp\Samples\_21_Delegate\bin\Debug\net6.0\_21_Delegate.pdb
+F:\Code\csharp\Samples\_21_Delegate\obj\Debug\net6.0\_21_Delegate.csproj.AssemblyReference.cache
+F:\Code\csharp\Samples\_21_Delegate\obj\Debug\net6.0\_21_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\csharp\Samples\_21_Delegate\obj\Debug\net6.0\_21_Delegate.AssemblyInfoInputs.cache
+F:\Code\csharp\Samples\_21_Delegate\obj\Debug\net6.0\_21_Delegate.AssemblyInfo.cs
+F:\Code\csharp\Samples\_21_Delegate\obj\Debug\net6.0\_21_Delegate.csproj.CoreCompileInputs.cache
+F:\Code\csharp\Samples\_21_Delegate\obj\Debug\net6.0\_21_Delegate.dll
+F:\Code\csharp\Samples\_21_Delegate\obj\Debug\net6.0\refint\_21_Delegate.dll
+F:\Code\csharp\Samples\_21_Delegate\obj\Debug\net6.0\_21_Delegate.pdb
+F:\Code\csharp\Samples\_21_Delegate\obj\Debug\net6.0\_21_Delegate.genruntimeconfig.cache
+F:\Code\csharp\Samples\_21_Delegate\obj\Debug\net6.0\ref\_21_Delegate.dll

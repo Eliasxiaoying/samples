@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\_19_AspNetCore.CacheSample.props" />
+</Project>

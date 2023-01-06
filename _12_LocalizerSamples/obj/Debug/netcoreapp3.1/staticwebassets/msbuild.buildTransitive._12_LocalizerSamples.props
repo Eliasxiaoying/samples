@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\_12_LocalizerSamples.props" />
+</Project>

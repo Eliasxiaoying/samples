@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "_24_IO_Serialize/1.0.0": {
+        "runtime": {
+          "_24_IO_Serialize.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_24_IO_Serialize/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
