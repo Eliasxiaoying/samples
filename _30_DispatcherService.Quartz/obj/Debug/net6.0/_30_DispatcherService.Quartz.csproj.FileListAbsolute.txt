@@ -1,0 +1,12 @@
+F:\Code\csharp\Samples\_30_DispatcherService.Quartz\bin\Debug\net6.0\_30_DispatcherService.Quartz.deps.json
+F:\Code\csharp\Samples\_30_DispatcherService.Quartz\bin\Debug\net6.0\_30_DispatcherService.Quartz.dll
+F:\Code\csharp\Samples\_30_DispatcherService.Quartz\bin\Debug\net6.0\_30_DispatcherService.Quartz.pdb
+F:\Code\csharp\Samples\_30_DispatcherService.Quartz\obj\Debug\net6.0\_30_DispatcherService.Quartz.csproj.AssemblyReference.cache
+F:\Code\csharp\Samples\_30_DispatcherService.Quartz\obj\Debug\net6.0\_30_DispatcherService.Quartz.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\csharp\Samples\_30_DispatcherService.Quartz\obj\Debug\net6.0\_30_DispatcherService.Quartz.AssemblyInfoInputs.cache
+F:\Code\csharp\Samples\_30_DispatcherService.Quartz\obj\Debug\net6.0\_30_DispatcherService.Quartz.AssemblyInfo.cs
+F:\Code\csharp\Samples\_30_DispatcherService.Quartz\obj\Debug\net6.0\_30_DispatcherService.Quartz.csproj.CoreCompileInputs.cache
+F:\Code\csharp\Samples\_30_DispatcherService.Quartz\obj\Debug\net6.0\_30_DispatcherService.Quartz.dll
+F:\Code\csharp\Samples\_30_DispatcherService.Quartz\obj\Debug\net6.0\refint\_30_DispatcherService.Quartz.dll
+F:\Code\csharp\Samples\_30_DispatcherService.Quartz\obj\Debug\net6.0\_30_DispatcherService.Quartz.pdb
+F:\Code\csharp\Samples\_30_DispatcherService.Quartz\obj\Debug\net6.0\ref\_30_DispatcherService.Quartz.dll

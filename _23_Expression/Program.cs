@@ -12,68 +12,79 @@ namespace _23_Expression;
 
 public class Program
 {
+    public static void TestMethod()
+    {
+        var num = 100_000_000_000;
+        Parallel.For(1, num, new ParallelOptions()
+        {
+            MaxDegreeOfParallelism = 24
+        }, value => { Console.WriteLine($"{value} - {Thread.CurrentThread.ManagedThreadId}"); });
+    }
+
     public static void Main(string[] args)
     {
         #region Test
 
-//         
-//
-//         // 创建了两个常数的表达式节点
-//         ConstantExpression left = Expression.Constant(123, typeof(int));
-//         ConstantExpression right = Expression.Constant(234, typeof(int));
-//
-//         // 将两个表达式创建加法关系
-//         var expression = Expression.Add(left, right);
-//
-//         // 将表达式表示为Lambda表达式的形式以便于转换为Func委托
-//         var lambdaExp = Expression.Lambda<Func<int>>(expression, new ParameterExpression[0]);
-//
-//         // 以下两行可以简写为：var result = lambdaExp.Compile()();
-//         var sumDelegate = lambdaExp.Compile();
-//
-//         // 返回的结果即是123 + 234的结果
-//         var result = sumDelegate.Invoke();
-//
-//         Console.WriteLine(result);
-//
-//         /*
-//         ParameterExpression m = Expression.Parameter(typeof(int), "m");
-//         ParameterExpression n = Expression.Parameter(typeof(int), "n");
-//         ConstantExpression constPara = Expression.Constant(2, typeof(int));
-//
-//         // left = (m * n)
-//         var left = Expression.Multiply(m, n);
-//
-//         // left = ((m * n) + m)
-//         left = Expression.Add(left, m);
-//
-//         // right = (n + 2)
-//         var right = Expression.Add(n, constPara);
-//
-//         // result = (((m * n) + m) + (n + 2))
-//         var result = Expression.Add(left, right);
-//
-//         var lambdaExp = Expression.Lambda<Func<int, int, int>>(result, m, n);
-//
-//         var resultValue = lambdaExp.Compile()(10, 10);
-//
-//         Console.WriteLine($"{resultValue}");
-//         */
-//
-//         //    CallMethodExpression();
-//         /
-//         /
-//         /
-//
-//          ExpressionVisitorTest();
+        //         
+        //
+        //         // 创建了两个常数的表达式节点
+        //         ConstantExpression left = Expression.Constant(123, typeof(int));
+        //         ConstantExpression right = Expression.Constant(234, typeof(int));
+        //
+        //         // 将两个表达式创建加法关系
+        //         var expression = Expression.Add(left, right);
+        //
+        //         // 将表达式表示为Lambda表达式的形式以便于转换为Func委托
+        //         var lambdaExp = Expression.Lambda<Func<int>>(expression, new ParameterExpression[0]);
+        //
+        //         // 以下两行可以简写为：var result = lambdaExp.Compile()();
+        //         var sumDelegate = lambdaExp.Compile();
+        //
+        //         // 返回的结果即是123 + 234的结果
+        //         var result = sumDelegate.Invoke();
+        //
+        //         Console.WriteLine(result);
+        //
+        //         /*
+        //         ParameterExpression m = Expression.Parameter(typeof(int), "m");
+        //         ParameterExpression n = Expression.Parameter(typeof(int), "n");
+        //         ConstantExpression constPara = Expression.Constant(2, typeof(int));
+        //
+        //         // left = (m * n)
+        //         var left = Expression.Multiply(m, n);
+        //
+        //         // left = ((m * n) + m)
+        //         left = Expression.Add(left, m);
+        //
+        //         // right = (n + 2)
+        //         var right = Expression.Add(n, constPara);
+        //
+        //         // result = (((m * n) + m) + (n + 2))
+        //         var result = Expression.Add(left, right);
+        //
+        //         var lambdaExp = Expression.Lambda<Func<int, int, int>>(result, m, n);
+        //
+        //         var resultValue = lambdaExp.Compile()(10, 10);
+        //
+        //         Console.WriteLine($"{resultValue}");
+        //         */
+        //
+        //         //    CallMethodExpression();
+        //         /
+        //         /
+        //         /
+        //
+        //          ExpressionVisitorTest();
 
         #endregion
 
-        Console.WriteLine("********And********");
-        AndExpressionTest();
+        // Console.WriteLine("********And********");
+        // AndExpressionTest();
+        //
+        // Console.WriteLine("*********Or**********");
+        // OrExpressionTest();
 
-        Console.WriteLine("*********Or**********");
-        OrExpressionTest();
+        TestMethod();
     }
 
 
@@ -98,7 +109,7 @@ public class Program
 
         var memberExp = Expression.Property(p, propInfo);
 
-        var toStringExp = Expression.Call(memberExp, typeof(int).GetMethod("ToString", new Type[0]));
+        var toStringExp = Expression.Call(memberExp, typeof(int).GetMethod("ToString", new Type[] { }));
 
         var constStr = Expression.Constant("5");
 
@@ -127,7 +138,8 @@ public class Program
             Name = "PineApple"
         };
 
-        Man person = null;
+        Man person =
+            null;
 
         watch.Start();
         var result = Parallel.For(1, 100_000_000, (state) =>

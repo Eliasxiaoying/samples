@@ -1,0 +1,15 @@
+F:\Code\csharp\Samples\_28_CoreClr\bin\Debug\net6.0\_28_CoreClr.exe
+F:\Code\csharp\Samples\_28_CoreClr\bin\Debug\net6.0\_28_CoreClr.deps.json
+F:\Code\csharp\Samples\_28_CoreClr\bin\Debug\net6.0\_28_CoreClr.runtimeconfig.json
+F:\Code\csharp\Samples\_28_CoreClr\bin\Debug\net6.0\_28_CoreClr.dll
+F:\Code\csharp\Samples\_28_CoreClr\bin\Debug\net6.0\_28_CoreClr.pdb
+F:\Code\csharp\Samples\_28_CoreClr\obj\Debug\net6.0\_28_CoreClr.csproj.AssemblyReference.cache
+F:\Code\csharp\Samples\_28_CoreClr\obj\Debug\net6.0\_28_CoreClr.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\csharp\Samples\_28_CoreClr\obj\Debug\net6.0\_28_CoreClr.AssemblyInfoInputs.cache
+F:\Code\csharp\Samples\_28_CoreClr\obj\Debug\net6.0\_28_CoreClr.AssemblyInfo.cs
+F:\Code\csharp\Samples\_28_CoreClr\obj\Debug\net6.0\_28_CoreClr.csproj.CoreCompileInputs.cache
+F:\Code\csharp\Samples\_28_CoreClr\obj\Debug\net6.0\_28_CoreClr.dll
+F:\Code\csharp\Samples\_28_CoreClr\obj\Debug\net6.0\refint\_28_CoreClr.dll
+F:\Code\csharp\Samples\_28_CoreClr\obj\Debug\net6.0\_28_CoreClr.pdb
+F:\Code\csharp\Samples\_28_CoreClr\obj\Debug\net6.0\_28_CoreClr.genruntimeconfig.cache
+F:\Code\csharp\Samples\_28_CoreClr\obj\Debug\net6.0\ref\_28_CoreClr.dll

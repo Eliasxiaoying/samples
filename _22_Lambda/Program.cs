@@ -6,7 +6,7 @@ public class Program
     {
         Console.WriteLine("Hello, World!");
 
-        var enumerator = new Program().GetId().GetEnumerator()
+        var enumerator = new Program().GetId().GetEnumerator();
         while (Console.ReadLine() != "")
         {
             enumerator.MoveNext();

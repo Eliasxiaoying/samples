@@ -1,0 +1,15 @@
+F:\Code\csharp\Samples\_27_AOP\bin\Debug\net6.0\_27_AOP.exe
+F:\Code\csharp\Samples\_27_AOP\bin\Debug\net6.0\_27_AOP.deps.json
+F:\Code\csharp\Samples\_27_AOP\bin\Debug\net6.0\_27_AOP.runtimeconfig.json
+F:\Code\csharp\Samples\_27_AOP\bin\Debug\net6.0\_27_AOP.dll
+F:\Code\csharp\Samples\_27_AOP\bin\Debug\net6.0\_27_AOP.pdb
+F:\Code\csharp\Samples\_27_AOP\obj\Debug\net6.0\_27_AOP.csproj.AssemblyReference.cache
+F:\Code\csharp\Samples\_27_AOP\obj\Debug\net6.0\_27_AOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\csharp\Samples\_27_AOP\obj\Debug\net6.0\_27_AOP.AssemblyInfoInputs.cache
+F:\Code\csharp\Samples\_27_AOP\obj\Debug\net6.0\_27_AOP.AssemblyInfo.cs
+F:\Code\csharp\Samples\_27_AOP\obj\Debug\net6.0\_27_AOP.csproj.CoreCompileInputs.cache
+F:\Code\csharp\Samples\_27_AOP\obj\Debug\net6.0\_27_AOP.dll
+F:\Code\csharp\Samples\_27_AOP\obj\Debug\net6.0\refint\_27_AOP.dll
+F:\Code\csharp\Samples\_27_AOP\obj\Debug\net6.0\_27_AOP.pdb
+F:\Code\csharp\Samples\_27_AOP\obj\Debug\net6.0\_27_AOP.genruntimeconfig.cache
+F:\Code\csharp\Samples\_27_AOP\obj\Debug\net6.0\ref\_27_AOP.dll

@@ -1,0 +1,15 @@
+F:\Code\csharp\Samples\_25_Async\bin\Debug\net6.0\_25_Async.exe
+F:\Code\csharp\Samples\_25_Async\bin\Debug\net6.0\_25_Async.deps.json
+F:\Code\csharp\Samples\_25_Async\bin\Debug\net6.0\_25_Async.runtimeconfig.json
+F:\Code\csharp\Samples\_25_Async\bin\Debug\net6.0\_25_Async.dll
+F:\Code\csharp\Samples\_25_Async\bin\Debug\net6.0\_25_Async.pdb
+F:\Code\csharp\Samples\_25_Async\obj\Debug\net6.0\_25_Async.csproj.AssemblyReference.cache
+F:\Code\csharp\Samples\_25_Async\obj\Debug\net6.0\_25_Async.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\csharp\Samples\_25_Async\obj\Debug\net6.0\_25_Async.AssemblyInfoInputs.cache
+F:\Code\csharp\Samples\_25_Async\obj\Debug\net6.0\_25_Async.AssemblyInfo.cs
+F:\Code\csharp\Samples\_25_Async\obj\Debug\net6.0\_25_Async.csproj.CoreCompileInputs.cache
+F:\Code\csharp\Samples\_25_Async\obj\Debug\net6.0\_25_Async.dll
+F:\Code\csharp\Samples\_25_Async\obj\Debug\net6.0\refint\_25_Async.dll
+F:\Code\csharp\Samples\_25_Async\obj\Debug\net6.0\_25_Async.pdb
+F:\Code\csharp\Samples\_25_Async\obj\Debug\net6.0\_25_Async.genruntimeconfig.cache
+F:\Code\csharp\Samples\_25_Async\obj\Debug\net6.0\ref\_25_Async.dll

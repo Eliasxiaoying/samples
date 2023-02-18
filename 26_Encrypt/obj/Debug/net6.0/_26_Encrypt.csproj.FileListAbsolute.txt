@@ -1,0 +1,15 @@
+F:\Code\csharp\Samples\26_Encrypt\bin\Debug\net6.0\_26_Encrypt.exe
+F:\Code\csharp\Samples\26_Encrypt\bin\Debug\net6.0\_26_Encrypt.deps.json
+F:\Code\csharp\Samples\26_Encrypt\bin\Debug\net6.0\_26_Encrypt.runtimeconfig.json
+F:\Code\csharp\Samples\26_Encrypt\bin\Debug\net6.0\_26_Encrypt.dll
+F:\Code\csharp\Samples\26_Encrypt\bin\Debug\net6.0\_26_Encrypt.pdb
+F:\Code\csharp\Samples\26_Encrypt\obj\Debug\net6.0\_26_Encrypt.csproj.AssemblyReference.cache
+F:\Code\csharp\Samples\26_Encrypt\obj\Debug\net6.0\_26_Encrypt.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\csharp\Samples\26_Encrypt\obj\Debug\net6.0\_26_Encrypt.AssemblyInfoInputs.cache
+F:\Code\csharp\Samples\26_Encrypt\obj\Debug\net6.0\_26_Encrypt.AssemblyInfo.cs
+F:\Code\csharp\Samples\26_Encrypt\obj\Debug\net6.0\_26_Encrypt.csproj.CoreCompileInputs.cache
+F:\Code\csharp\Samples\26_Encrypt\obj\Debug\net6.0\_26_Encrypt.dll
+F:\Code\csharp\Samples\26_Encrypt\obj\Debug\net6.0\refint\_26_Encrypt.dll
+F:\Code\csharp\Samples\26_Encrypt\obj\Debug\net6.0\_26_Encrypt.pdb
+F:\Code\csharp\Samples\26_Encrypt\obj\Debug\net6.0\_26_Encrypt.genruntimeconfig.cache
+F:\Code\csharp\Samples\26_Encrypt\obj\Debug\net6.0\ref\_26_Encrypt.dll
